@@ -1,6 +1,6 @@
 ### at-goto-podman
 
-```ini
+```toml
 # 可以 quick-use.registries.conf 文件后直接替换 /etc/containers/registries.conf 文件
 # 这个 docker.mirrors.ustc.edu.cn 可以修改为其他镜像源
 
